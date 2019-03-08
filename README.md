@@ -1,5 +1,4 @@
 # GWM-Scripts
-This scripts are created by Shaurya. He holds the copyright of the same.
 
 Draw annotation boxes: This is a IPython notebook which contains the code to draw annotation boxes in the images from the annotations present in csv file. You should specify the path of the images and the corresponding csv file.
 
